@@ -35,6 +35,9 @@
       ],
       "@test-pronto-four/data-access": [
         "libs/data-access/src/index.ts"
+      ],
+      "@test-pronto-four/data-services": [
+        "libs/data-services/src/index.ts"
       ]
     }
   },
