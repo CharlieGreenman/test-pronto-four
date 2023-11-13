@@ -38,6 +38,9 @@
       ],
       "@test-pronto-four/data-services": [
         "libs/data-services/src/index.ts"
+      ],
+      "@test-pronto-four/data-graphql": [
+        "libs/data-graphql/src/index.ts"
       ]
     }
   },
