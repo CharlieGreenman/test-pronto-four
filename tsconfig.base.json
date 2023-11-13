@@ -32,6 +32,9 @@
       ],
       "@test-pronto-four/common/common-guards": [
         "libs/common/common-guards/src/index.ts"
+      ],
+      "@test-pronto-four/data-access": [
+        "libs/data-access/src/index.ts"
       ]
     }
   },
